@@ -8,7 +8,7 @@ A web-based machine learning application that predicts the future closing price 
 
 
 ## 🚀 Live Demo
-[Click here to view the App]([YOUR_STREAMLIT_APP_LINK_HERE](https://tesla-stock-price-predictor-lstm.streamlit.app/))
+[Click here to view the App](https://tesla-stock-price-predictor-lstm.streamlit.app/)
 
 ## 🧠 Model Architecture
 The core of this project is a Deep Learning model built with **TensorFlow/Keras**:
